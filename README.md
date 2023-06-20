@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshit 
 - 👀 I’m interested in Business Analyst roles 
-- 🌱 I’m currently working towards a Master's Degree in Business Analysis and Information Systems at University of Southern Florida 
+- 🌱 I’m currently working towards a Master's Degree in Business Analysis and Information Systems at University of South Florida 
 - 💞️ I’m looking to collaborate with Business Analyst and Data Analyst 
 - 📫 I can be at akshitrampershad@usf.edu 
 
