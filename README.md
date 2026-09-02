@@ -1,8 +1,6 @@
 # Hi, I'm Akshit RamPershad 👋
 
-**AI Engineer** turning enterprise operations into scalable, AI-native systems — multi-agent pipelines, RAG platforms, and agentic workflow automation.
-
-I work at the intersection of AI engineering, data engineering, and product delivery — building systems that ship, not just prototypes, and that earn stakeholder trust through measurable, auditable results.
+**AI Engineer** turning enterprise operations into scalable, AI-native systems — multi-agent pipelines, RAG platforms, and agentic workflow automation. I work at the intersection of AI engineering, data engineering, and product delivery — building systems that ship, not just prototypes, and that earn stakeholder trust through measurable, auditable results.
 
 📍 San Francisco, CA &middot; Open to relocate
 
@@ -11,17 +9,6 @@ I work at the intersection of AI engineering, data engineering, and product deli
 - **RAG systems** — end-to-end retrieval-augmented generation using Qdrant, LangChain, and LlamaIndex
 - **Agentic workflows** — LLM-powered automation with OAuth 2.0 integrations, REST adapters, and enterprise data sources
 - **AI product delivery** — translating complex AI architectures into scoped, deliverable build plans for VP-level stakeholders
-
-## Currently
-Building multi-agent automation pipelines at **Cambrian Lab** on the ZFlow enterprise workflow orchestration platform — spanning hybrid-retrieval matching systems, agent design, and agentic workflow implementation for enterprise supply-chain clients.
-
-## Featured Projects
-| Project | What it does |
-| --- | --- |
-| [**CYBER-GPT**](https://github.com/AkshitRampershad/CYBER-GPT) | RAG + LLM agentic workflow that helps SOC analysts detect, investigate, and respond to cyber threats faster |
-| [**AI-Powered Agentic Workflow for Project Management**](https://github.com/AkshitRampershad/ai-agentic-workflow-project) | Multi-agent system that converts a raw product spec into structured user stories, features, and engineering tasks |
-| [**Credit Risk Assessment & Portfolio Optimization**](https://github.com/AkshitRampershad/SAS-Financial-Project) | SAS-based credit scoring and portfolio optimization model spanning 2.5M+ loan records |
-| [**Multilingual NLI with Ensemble Learning**](https://github.com/AkshitRampershad/Contradictory-My-Dear-Watson) | Fine-tuned XLM-RoBERTa ensemble reaching 90.06% test accuracy across 15 languages |
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,6 +30,8 @@ Building multi-agent automation pipelines at **Cambrian Lab** on the ZFlow enter
 - 📘 McKinsey Forward Program &middot; Snowflake Data Engineering Certified
 - 💼 Prior experience: 22nd Century Technology, Surge Infotech, UKG
 
+## Currently
+Building multi-agent automation pipelines at **Cambrian Lab** on the ZFlow enterprise workflow orchestration platform — spanning hybrid-retrieval matching systems, agent design, and agentic workflow implementation for enterprise supply-chain clients.
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-rampershad/)
