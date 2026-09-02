@@ -39,15 +39,10 @@ Building multi-agent automation pipelines at **Cambrian Lab** on the ZFlow enter
 ## Background
 - 🎓 MS in Business Analytics and Information Systems &mdash; University of South Florida (2024)
 - 🎓 BS in Computer Science and Engineering &mdash; GITAM (2020)
-- 📜 Anthropic: Model Context Protocol, Claude with Amazon Bedrock, Claude with Google Cloud's Vertex AI, Building with the Claude API
+- 📜 Certificates: Model Context Protocol, Claude with Amazon Bedrock, Claude with Google Cloud's Vertex AI, Building with the Claude API
 - 📘 McKinsey Forward Program &middot; Snowflake Data Engineering Certified
 - 💼 Prior experience: 22nd Century Technology, Surge Infotech, UKG
 
-## GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshitRampershad&show_icons=true&hide_border=true&theme=default" alt="Akshit's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitRampershad&hide_border=true" alt="Akshit's GitHub streak" />
-</p>
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-rampershad/)
