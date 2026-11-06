@@ -1,6 +1,6 @@
 # Hi, I'm Akshit RamPershad 👋
 
-**AI Engineer** turning enterprise operations into scalable, AI-native systems, multi-agent pipelines, RAG platforms, and agentic workflow automation. I work at the intersection of AI engineering, data engineering, and product delivery, building systems that ship, not just prototypes, and that earn stakeholder trust through measurable, auditable results.
+**AI Engineer** turning enterprise operations into scalable, AI-native systems, multi-agent pipelines, RAG platforms, and agentic workflow automation. I work at the intersection of AI engineering, data engineering, and product delivery, building systems that ship, not just prototypes, and that earn customer and stakeholder trust through measurable, auditable results.
 
 ## What I Build
 - **Multi-agent pipelines** — orchestrated AI agents with routing, parallelization, tool-calling, and state management
